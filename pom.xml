@@ -32,4 +32,12 @@
       </plugin>
     </plugins>
   </build>
+  <distributionManagement>
+        <snapshotRepository>
+           <id>maven-snapshots</id>
+           <name>maven-snapshots</name>
+           <url>http://3.101.25.99:7172/repository/maven-snapshots/</url>
+        </snapshotRepository>
+	</distributionManagement>
+
 </project>
