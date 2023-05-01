@@ -36,7 +36,7 @@
         <snapshotRepository>
            <id>maven-snapshots</id>
            <name>maven-snapshots</name>
-           <url>http://54.183.97.128:4565/repository/maven-snapshots/</url>
+           <url>http://18.144.28.185:4565/repository/maven-snapshots/</url>
         </snapshotRepository>
 	</distributionManagement>
 
